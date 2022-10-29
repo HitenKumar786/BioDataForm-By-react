@@ -1,0 +1,103 @@
+#main{
+display: flex;
+flex-wrap: wrap;
+justify-content:center;
+align-content: center;
+border: 25px;
+background-color:hsl(95, 41%, 89%);
+}
+
+form{
+  padding: 50px;
+width: 250px;
+height: 650px;
+border: 2px dotted black;
+margin-top: 10px;
+background-color:lightcyan;
+
+}
+
+#innerform{
+
+  margin-top: -30px;
+}
+#first{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;                                     ;
+}
+
+#last{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+#age{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+#qualification{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+ 
+#Current-Address{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+#Postal-Address{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+#email{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+#Number{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  width: 250px;
+  height: 30px;
+  margin-left: -10px;  
+}
+
+button{
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  margin-left: 80px;
+  
+  padding: 15px;
+}
